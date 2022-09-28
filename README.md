@@ -14,9 +14,8 @@
 
 - 👨‍💻 All of my projects are available at **[Git Hub](https://github.com/ankita3254)**
 
-- 📫 How to reach me **abhinav3254@yahoo.com**
-
 - ⚡ Fun fact **I Play Video Games very often.**
+ i am currently working as an intern in GDKN company
 
 ## 🚀 Languages and Tools:
 
